@@ -1,0 +1,9 @@
+.ajaxLoader {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -24px;
+    margin-left: -24px;
+    z-index: 100;
+    display: none;
+}

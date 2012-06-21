@@ -1,13 +1,13 @@
 //
-//  monkeyViewController.m
-//  monkey
+//  boardViewController.m
+//  Find the investor
 //
-//  Created by Robert Diamond on 4/9/11.
-//  Copyright 2011 none. All rights reserved.
+//  Created by Yeray Callero on 12/06/12.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import <QuartzCore/QuartzCore.h>
-#import "monkeyViewController.h"
+#import "boardViewController.h"
 #import "GeosophicServiceController.h"
 #import "InvestorViewController.h"
 #import "InvestorType.h"
@@ -17,7 +17,7 @@
 
 #define rND_0_1 ((double)arc4random() / ARC4RANDOM_MAX);
 
-@implementation monkeyViewController
+@implementation boardViewController
 @synthesize geosophicButton;
 @synthesize timeRemaining;
 @synthesize where;
@@ -333,7 +333,7 @@ double ARC4RANDOM_MAX = 0x100000000;
 {
     switch (currentStage) {
         case 1:
-            return @"Friends, Family and Fools";
+            return @"Friends, Family & Fools";
             break;
         case 2:
             return @"Seed";

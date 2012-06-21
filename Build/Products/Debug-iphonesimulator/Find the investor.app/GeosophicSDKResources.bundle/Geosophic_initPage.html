@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title> Geosophic init </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"> 
+            
+        <link rel="stylesheet" href="jquery.mobile-1.1.0.min.css"/>
+        <link rel="stylesheet" href="geosophic.css"/>
+            
+        <script src="jquery.min.js"></script>
+        <script src="jquery.mobile-1.1.0.min.js"></script>
+        <script>
+            $(document).on("click", ".show-page-loading-msg", function() {
+                            $.mobile.showPageLoadingMsg();
+                        })
+                    .on("click", ".hide-page-loading-msg", function() {
+                        $.mobile.hidePageLoadingMsg();
+                    });
+        </script>
+    </head>
+    <body>
+        <div data-role="page">
+            
+            <div data-role="header">
+                <h1>Page Title</h1>
+            </div><!-- /header -->
+            
+            <div data-role="content">	
+                <p>Page content goes here.</p>
+                <button class="show-page-loading-msg" data-inline="false" data-icon="arrow-r" data-iconpos="right">Show</button>
+                <button class="hide-page-loading-msg" data-inline="false" data-icon="delete" data-iconpos="right">Hide</button>
+            </div><!-- /content -->
+            
+            <div data-role="footer" data-position="fixed">		
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#">One</a></li>
+                        <li><a href="#">Two</a></li>
+                        <li><a href="#">Three</a></li>
+                    </ul>
+                </div><!-- /navbar -->
+            </div>        
+        </div>
+    </body>
+</html>

@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/yeraycallero/Trabajo/iOS\ Sommeliers\ architectural\ study/rmd6502-monkey-dedc14c\ 2/Classes/InvestorViewController.m \
-  /Users/yeraycallero/Trabajo/iOS\ Sommeliers\ architectural\ study/rmd6502-monkey-dedc14c\ 2/Classes/InvestorViewController.h \
-  /Users/yeraycallero/Trabajo/iOS\ Sommeliers\ architectural\ study/rmd6502-monkey-dedc14c\ 2/Classes/InvestorType.h \
-  /Users/yeraycallero/Trabajo/iOS\ Sommeliers\ architectural\ study/rmd6502-monkey-dedc14c\ 2/Classes/ResultsViewController.h \
-  /Users/yeraycallero/Trabajo/iOS\ Sommeliers\ architectural\ study/rmd6502-monkey-dedc14c\ 2/Classes/AUIAnimatableLabel.h \
-  /Users/yeraycallero/Trabajo/iOS\ Sommeliers\ architectural\ study/rmd6502-monkey-dedc14c\ 2/Classes/CrashViewController.h
+  /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m \
+  /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.h \
+  /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.h \
+  /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.h \
+  /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.h \
+  /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.h

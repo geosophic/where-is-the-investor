@@ -1,9 +1,9 @@
 //
 //  SettingsStatus.h
-//  monkey
+//  Find the investor
 //
-//  Created by Yeray Callero on 15/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Yeray Callero on 12/06/12.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
@@ -14,5 +14,7 @@
 + (bool) isGeosophicServiceEnabled;
 + (void) setCompanyName: (NSString*) newCompanyName;
 +(NSString*) getCompanyName;
++(void) setLastLeaderboardId:(int) leaderboardId;
++(int) getLastLeaderboardId;
 
 @end

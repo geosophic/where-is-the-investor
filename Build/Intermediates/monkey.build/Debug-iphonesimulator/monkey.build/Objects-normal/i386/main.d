@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/yeraycallero/Trabajo/iOS\ Sommeliers\ architectural\ study/rmd6502-monkey-dedc14c\ 2/main.m
+  /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m

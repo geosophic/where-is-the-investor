@@ -1,9 +1,9 @@
 //
 //  CustomerViewController.m
-//  monkey
+//  Find the investor
 //
 //  Created by Yeray Callero on 12/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import "CustomerViewController.h"
@@ -85,7 +85,7 @@ double equity;
 
 -(void) setTitle
 {
-    [titleText setText:@"Congratulations. You've found a new customer!!!!"];
+    [titleText setText:@"You find a customer!!!!"];
 }
 
 -(void) setCustomerImage

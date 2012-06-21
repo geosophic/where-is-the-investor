@@ -1,9 +1,9 @@
 //
 //  main.m
-//  monkey
+//  Find the investor
 //
-//  Created by Robert Diamond on 4/9/11.
-//  Copyright 2011 none. All rights reserved.
+//  Created by Yeray Callero on 12/06/12.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

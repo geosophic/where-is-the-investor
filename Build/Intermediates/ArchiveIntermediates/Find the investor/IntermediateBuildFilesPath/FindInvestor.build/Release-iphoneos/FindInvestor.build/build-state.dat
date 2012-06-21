@@ -1,0 +1,1113 @@
+TFindInvestor
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist"
+cProcessInfoPlistFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/Info.plist" FindInvestor-Info.plist
+cSymLink "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+cCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/MainWindow.xib
+cCpResource GeosophicSDKResources.bundle "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/GeosophicSDKResources.bundle"
+cCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/boardViewController.xib
+cCpResource buzzer.mp3 "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/buzzer.mp3"
+cCpResource win.m4a "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/win.m4a"
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/money_bag.png" money_bag.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_shark.png" newbie_shark.png
+cCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.xib
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_bird.png" newbie_bird.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_arsitek.png" techie_arsitek.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_artist.png" techie_artist.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_sailor.png" techie_sailor.png
+cCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.xib
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/citizen_Japan.png" citizen_Japan.png
+cCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.xib
+cCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.xib
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_Serif.png" techie_Serif.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo.png" logo.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/geosophic_symbol.png" Classes/geosophic_symbol.png
+cCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.xib
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo_blanco.png" logo_blanco.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/bg_negative_icon.png" bg_negative_icon.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/title_geosophic.png" title_geosophic.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square.png" button_square.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square_114.png" button_square_114.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg.png" iphoneLrg.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg_57.png" iphoneLrg_57.png
+cProcessPCH "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.pth" FindInvestor_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor" normal armv7
+cGenerateDSYMFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYM" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"
+cStripping "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"
+cProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision"
+cProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision"
+cTouch "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+cSetOwnerAndGroup yeraycallero:staff "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+cSetMode u+w,go-w,a+rX "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent"
+cCodeSign "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+cValidate "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004F74EAE500000000000001A7
+t1333062373
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004F74EAE500000000000001E5
+t1333062373
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004F74EAE6000000000015B230
+t1333062374
+s1421872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F74EAE700000000003AE430
+t1333062375
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004F74EAE7000000000007C770
+t1333062375
+s509808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000004F74EAE70000000000087C30
+t1333062375
+s556080
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F74EAE8000000000052C940
+t1333062376
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F74EAE70000000000001534
+t1333062375
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F74EAE80000000000175AA0
+t1333062376
+s1530528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004F74EAE800000000000CE180
+t1333062376
+s844160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004F74EAE800000000000C5770
+t1333062376
+s808816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F74EAE80000000000000BF5
+t1333062376
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F74EAE90000000000798EA0
+t1333062377
+s7966368
+
+N/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision
+c000000004FE0D1870000000000001C2E
+t1340133767
+s7214
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYM
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/CrashViewController.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/CustomerViewController.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/GeosophicSDKResources.bundle
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/Info.plist
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/InvestorViewController.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/MainWindow.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/PkgInfo
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResultsViewController.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/SettingsViewController.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/bg_negative_icon.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/boardViewController.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square_114.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/buzzer.mp3
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/citizen_Japan.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/geosophic_symbol.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg_57.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo_blanco.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/money_bag.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_bird.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_shark.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_Serif.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_arsitek.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_artist.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_sailor.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/title_geosophic.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/win.m4a
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/FindInvestor.LinkFileList
+c000000004FE220DE0000000000000C38
+t1340219614
+s3128
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.pth
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m
+c000000004FDF05AB0000000000001D64
+t1340016043
+s7524
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m
+c000000004FE0B5230000000000000787
+t1340126499
+s1927
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.xib
+c000000004FE0B5010000000000003AC0
+t1340126465
+s15040
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.m
+c000000004FE0AB6B0000000000000C0F
+t1340124011
+s3087
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.xib
+c000000004FE0ADD400000000000057CF
+t1340124628
+s22479
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.m
+c000000004FDF52DF00000000000000F0
+t1340035807
+s240
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m
+c000000004FDF52DF00000000000011E6
+t1340035807
+s4582
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.xib
+c000000004FE0ADEC0000000000005921
+t1340124652
+s22817
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m
+c000000004FE1E4270000000000001888
+t1340204071
+s6280
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.xib
+c000000004FE1F5C8000000000000601E
+t1340208584
+s24606
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m
+c000000004FE092910000000000000338
+t1340117649
+s824
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m
+c000000004FE1F0EE0000000000000BFD
+t1340207342
+s3069
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.xib
+c000000004FE0A65B0000000000004983
+t1340122715
+s18819
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.m
+c000000004FDF05AB0000000000000540
+t1340016043
+s1344
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m
+c000000004FE0A8820000000000004132
+t1340123266
+s16690
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/geosophic_symbol.png
+c000000004FDF05AB0000000000002362
+t1340016043
+s9058
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m
+c000000004FE1F90900000000000011FC
+t1340209417
+s4604
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/FindInvestor_Prefix.pch
+c000000004FDF4D4E00000000000000CB
+t1340034382
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/GeosophicSDKResources.bundle
+c000000004FE1F6C500000000000000AA
+t1340208837
+s170
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/MainWindow.xib
+c000000004FDF6BFA0000000000003322
+t1340042234
+s13090
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/bg_negative_icon.png
+c000000004FDF05AB0000000000001587
+t1340016043
+s5511
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/boardViewController.xib
+c000000004FE0C988000000000000994B
+t1340131720
+s39243
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/button_square.png
+c000000004FDF408C0000000000001DBD
+t1340031116
+s7613
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/button_square_114.png
+c000000004FDF41AE0000000000004695
+t1340031406
+s18069
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/buzzer.mp3
+c000000004FDF05AB000000000000661B
+t1340016043
+s26139
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/citizen_Japan.png
+c000000004FDF05AB0000000000019092
+t1340016043
+s102546
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/iphoneLrg.png
+c000000004FE20D6500000000000037E9
+t1340214629
+s14313
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/iphoneLrg_57.png
+c000000004FE20D490000000000001B69
+t1340214601
+s7017
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/libGeosophicSDK.a
+c000000004FE1F58500000000000C36A8
+t1340208517
+s800424
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/logo.png
+c000000004FDF05AB0000000000003094
+t1340016043
+s12436
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/logo_blanco.png
+c000000004FDF05AB00000000000022DC
+t1340016043
+s8924
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m
+c000000004FDF4D4B0000000000000175
+t1340034379
+s373
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/money_bag.png
+c000000004FDF05AB000000000000240F
+t1340016043
+s9231
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/newbie_bird.png
+c000000004FDF05AB00000000000209A0
+t1340016043
+s133536
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/newbie_shark.png
+c000000004FDF05AB000000000001B18B
+t1340016043
+s110987
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_Serif.png
+c000000004FDF05AB00000000000223C6
+t1340016043
+s140230
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_arsitek.png
+c000000004FDF05AB000000000002BB95
+t1340016043
+s179093
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_artist.png
+c000000004FDF05AB000000000001D35C
+t1340016043
+s119644
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_sailor.png
+c000000004FDF05AB000000000001DB68
+t1340016043
+s121704
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/title_geosophic.png
+c000000004FE0A3450000000000011BDE
+t1340121925
+s72670
+
+N/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/win.m4a
+c000000004FDF05AB000000000001F80A
+t1340016043
+s129034
+
+NFindInvestor-Info.plist
+c000000004FE21F030000000000000452
+t1340219139
+s1106
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m
+r0
+
+CBuild AST from /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese3c4235e5892b541^cbd7a55e5892b541^---0#1#0#--18"Check dependencies36"820CD3B4-8DB0-4779-808E-2FC95BEBF402-
+
+CCodeSign "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+s361912496.986122
+e361912507.218646
+r1
+xCodeSign
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"CodeSign "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"f888fcb05892b541^d7f937bb5892b541^---0#0#0#-19%DVTDocumentLocation2@221"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/0000000000000000^1319"CodeSign "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 47349ce78ec4ed7c4266c7c7c24da764db5e0cbc "--resource-rules=/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist" --entitlements "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"4293CA6C-A7A7-4703-901D-E162DFA78141-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912494.186671
+e361912494.441175
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m191f32ae5892b541^ddef70ae5892b541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m0000000000000000^4792"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.o" Classes/AUIAnimatableLabel.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/AUIAnimatableLabel.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/AUIAnimatableLabel.o"36"D7B42E8D-4600-461E-A6C9-9F26A0A0CA81-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912494.084541
+e361912494.178304
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m32c815ae5892b541^7ba42dae5892b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m0000000000000000^4798"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.o" Classes/CrashViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CrashViewController.o"36"564F564E-6B1A-4CDA-9E31-981109C9E956-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912493.810409
+e361912493.925875
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.mdd97cfad5892b541^8010edad5892b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.m0000000000000000^4816"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.o" Classes/CustomerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/CustomerViewController.o"36"B9AC41B8-87C5-4AA5-BE98-3790D191E2AB-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912493.761939
+e361912493.809057
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.mf838c3ad5892b541^e71dcfad5892b541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.m0000000000000000^4756"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.o" Classes/InvestorType.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorType.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorType.o"36"AB238337-DF02-4737-897E-68A7F481F3E1-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912493.607031
+e361912493.760568
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m0d899bad5892b541^9eb2c2ad5892b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m0000000000000000^4816"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.o" Classes/InvestorViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/InvestorViewController.o"36"E18F545D-5C05-4153-8D50-99857C6E2A51-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912493.935562
+e361912494.083245
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m10b1f1ad5892b541^f94d15ae5892b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m0000000000000000^4810"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.o" Classes/ResultsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/ResultsViewController.o"36"C432BEF9-1B6D-48C0-9A98-A6DF458AEAB8-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912494.631787
+e361912494.673817
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m11e3a1ae5892b541^137facae5892b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m0000000000000000^4768"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.o" Classes/SettingsStatus.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsStatus.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsStatus.o"36"BF381E90-FA11-474F-98E2-805DEB2DF517-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912494.502092
+e361912494.630292
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m74b280ae5892b541^dd5ba1ae5892b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m0000000000000000^4816"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.o" Classes/SettingsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/SettingsViewController.o"36"BF27BFA1-C63D-476C-9355-338A54667F28-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912494.442539
+e361912494.500605
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.mf06a71ae5892b541^202780ae5892b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.m0000000000000000^4834"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.o" Classes/UIFont+CoreTextExtensions.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/UIFont+CoreTextExtensions.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/UIFont+CoreTextExtensions.o"36"9D749C2B-D797-4FB0-ABDA-D7D0933FA2EB-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912491.195349
+e361912493.558474
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m273332ab5892b541^a1f78ead5892b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m0000000000000000^4798"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.o" Classes/boardViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/boardViewController.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/boardViewController.o"36"23C4F763-ED18-498D-A327-E627AE185D2F-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912491.195336
+e361912493.552650
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m4d3232ab5892b541^dd7a8dad5892b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m0000000000000000^4768"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.o" Classes/gpcAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/gpcAppDelegate.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/gpcAppDelegate.o"36"B0D1408A-235E-4911-A87E-1D92C1C13DF3-
+
+CCompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.o" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912493.559927
+e361912493.605662
+r1
+xCompileC
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.o
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.mfe7c8fad5892b541^840d9bad5892b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m0000000000000000^4692"CompileC "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.o" main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/main.m -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/main.o"36"285D26F6-50C1-49B3-99B4-5BF3E6443FD0-
+
+CCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.xib
+s361912474.103442
+e361912474.250967
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.xib3e961a9a5892b541^9fe5419a5892b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.xib0000000000000000^1038"CompileXIB Classes/CrashViewController.xib    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/CrashViewController.nib" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CrashViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"E7AB7175-7E49-4FD9-BD6C-D27707C1DB4F-
+
+CCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.xib
+s361912473.097482
+e361912473.976158
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compiling /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.xib460619995892b541^8cf5f9995892b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.xib0000000000000000^1047"CompileXIB Classes/CustomerViewController.xib    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/CustomerViewController.nib" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/CustomerViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"E790CA25-AD3D-41A3-9F4E-E3662225B8BC-
+
+CCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.xib
+s361912420.330272
+e361912468.734608
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compiling /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.xibf19d54645892b541^c91fbc945892b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.xib0000000000000000^1047"CompileXIB Classes/InvestorViewController.xib    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/InvestorViewController.nib" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/InvestorViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"EDF7A44D-EBE1-493C-91EA-5E08346459D8-
+
+CCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.xib
+s361912473.977466
+e361912474.102138
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compiling /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.xib4852fa995892b541^0b261a9a5892b541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.xib0000000000000000^1044"CompileXIB Classes/ResultsViewController.xib    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResultsViewController.nib" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/ResultsViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"13CE32AD-2D92-4703-86CA-E9B349CE10D5-
+
+CCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.xib
+s361912475.266383
+e361912475.591734
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compiling /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.xib3d43449b5892b541^129f979b5892b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.xib0000000000000000^1047"CompileXIB Classes/SettingsViewController.xib    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/SettingsViewController.nib" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/SettingsViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"BC1CF29B-FE5C-4CAF-826C-169EAF776552-
+
+CCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/MainWindow.xib
+s361912415.449818
+e361912462.917597
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/MainWindow.xibf33d735f5892b541^0404eb8e5892b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/MainWindow.xib0000000000000000^995"CompileXIB MainWindow.xib    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/MainWindow.nib" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/MainWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"B7962A09-762A-4348-A7F0-0797093146E8-
+
+CCompileXIB /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/boardViewController.xib
+s361912415.450010
+e361912468.841895
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/boardViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/boardViewController.xib5e48735f5892b541^3f8bd9945892b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/boardViewController.xib0000000000000000^1022"CompileXIB boardViewController.xib    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/boardViewController.nib" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/boardViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"F1F02686-1FE1-4B8F-9A71-DE232C6B1418-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/bg_negative_icon.png" bg_negative_icon.png
+s361912475.480545
+e361912475.570580
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/bg_negative_icon.png
+xbg_negative_icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/bg_negative_icon.png" bg_negative_icon.pngb1167b9b5892b541^8811929b5892b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/bg_negative_icon.png0000000000000000^970"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/bg_negative_icon.png" bg_negative_icon.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/bg_negative_icon.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/bg_negative_icon.png"36"69E2D0A9-9F48-4745-B8AC-279AB18295A8-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square.png" button_square.png
+s361912475.592966
+e361912475.649261
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square.png
+xbutton_square.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square.png" button_square.png54e5979b5892b541^4338a69b5892b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/button_square.png0000000000000000^958"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square.png" button_square.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/button_square.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square.png"36"BC4C6980-3A7B-4E7A-AEDD-0C2012CE06A1-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square_114.png" button_square_114.png
+s361912475.650618
+e361912475.823588
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square_114.png
+xbutton_square_114.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection180"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square_114.png" button_square_114.pngd2aaa69b5892b541^d0d5d29b5892b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/button_square_114.png0000000000000000^974"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square_114.png" button_square_114.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/button_square_114.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/button_square_114.png"36"6B0D1F82-CBC4-490D-8F7A-8D4BF63C17A3-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/citizen_Japan.png" citizen_Japan.png
+s361912473.977426
+e361912475.074481
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/citizen_Japan.png
+xcitizen_Japan.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/citizen_Japan.png" citizen_Japan.png1552fa995892b541^6610139b5892b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/citizen_Japan.png0000000000000000^958"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/citizen_Japan.png" citizen_Japan.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/citizen_Japan.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/citizen_Japan.png"36"92C7F855-AF7D-4EC3-9188-17A3D62E8630-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/geosophic_symbol.png" Classes/geosophic_symbol.png
+s361912475.155140
+e361912475.265062
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/geosophic_symbol.png
+xClasses/geosophic_symbol.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/geosophic_symbol.png" Classes/geosophic_symbol.png7ec8279b5892b541^e8da439b5892b541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/geosophic_symbol.png0000000000000000^986"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/geosophic_symbol.png" Classes/geosophic_symbol.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Classes/geosophic_symbol.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/geosophic_symbol.png"36"8DFF6131-4BFB-47FA-8AD4-58A559F4A0B4-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg.png" iphoneLrg.png
+s361912475.824916
+e361912475.919993
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg.png
+xiphoneLrg.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg.png" iphoneLrg.png404bd39b5892b541^0284eb9b5892b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/iphoneLrg.png0000000000000000^942"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg.png" iphoneLrg.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/iphoneLrg.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg.png"36"EEC8858D-6E04-4F6E-B70B-DD7871B75729-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg_57.png" iphoneLrg_57.png
+s361912475.857075
+e361912475.932429
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg_57.png
+xiphoneLrg_57.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg_57.png" iphoneLrg_57.png8d7fdb9b5892b541^f2b2ee9b5892b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/iphoneLrg_57.png0000000000000000^954"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg_57.png" iphoneLrg_57.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/iphoneLrg_57.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/iphoneLrg_57.png"36"04D96C83-E1EF-480D-AE65-7FE109CCD00A-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo.png" logo.png
+s361912475.075826
+e361912475.153860
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo.png
+xlogo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo.png" logo.pngb282139b5892b541^fa62279b5892b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/logo.png0000000000000000^922"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo.png" logo.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/logo.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo.png"36"D96ED336-3BCC-433E-87D2-2FE443CA1DD3-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo_blanco.png" logo_blanco.png
+s361912475.294111
+e361912475.479135
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo_blanco.png
+xlogo_blanco.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo_blanco.png" logo_blanco.png91634b9b5892b541^2ead7a9b5892b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/logo_blanco.png0000000000000000^950"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo_blanco.png" logo_blanco.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/logo_blanco.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/logo_blanco.png"36"DC72FA7F-FEA0-4C28-97D5-930135889609-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/money_bag.png" money_bag.png
+s361912415.861029
+e361912420.328899
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/money_bag.png
+xmoney_bag.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/money_bag.png" money_bag.png4d85dc5f5892b541^333254645892b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/money_bag.png0000000000000000^942"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/money_bag.png" money_bag.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/money_bag.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/money_bag.png"36"89AEDABB-ED56-47EB-81EB-D0D8A611A0FB-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_bird.png" newbie_bird.png
+s361912468.735946
+e361912470.409184
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_bird.png
+xnewbie_bird.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection168"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_bird.png" newbie_bird.png5184bc945892b541^2fc268965892b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/newbie_bird.png0000000000000000^950"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_bird.png" newbie_bird.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/newbie_bird.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_bird.png"36"05DB57F7-C914-4EA4-B77B-1A3659266583-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_shark.png" newbie_shark.png
+s361912415.980798
+e361912422.678764
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_shark.png
+xnewbie_shark.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_shark.png" newbie_shark.png9129fb5f5892b541^9acfad665892b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/newbie_shark.png0000000000000000^954"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_shark.png" newbie_shark.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/newbie_shark.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/newbie_shark.png"36"189FC7BF-6EF6-4ECF-8D29-BBA1477B37D8-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_Serif.png" techie_Serif.png
+s361912474.281115
+e361912475.292828
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_Serif.png
+xtechie_Serif.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_Serif.png" techie_Serif.png4d11489a5892b541^53094b9b5892b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_Serif.png0000000000000000^954"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_Serif.png" techie_Serif.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_Serif.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_Serif.png"36"71BB15D5-3D97-4192-9D29-DDEFCFC9DD18-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_arsitek.png" techie_arsitek.png
+s361912470.410447
+e361912471.357791
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_arsitek.png
+xtechie_arsitek.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection174"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_arsitek.png" techie_arsitek.png5b2469965892b541^bb975b975892b541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_arsitek.png0000000000000000^962"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_arsitek.png" techie_arsitek.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_arsitek.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_arsitek.png"36"24CF294C-C570-4ABB-8D40-FD101E31A96F-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_artist.png" techie_artist.png
+s361912471.359246
+e361912472.258155
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_artist.png
+xtechie_artist.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_artist.png" techie_artist.png8d0e5c975892b541^b51642985892b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_artist.png0000000000000000^958"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_artist.png" techie_artist.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_artist.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_artist.png"36"991995D1-F955-4B02-A5C0-F4F96C1FC14F-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_sailor.png" techie_sailor.png
+s361912472.259510
+e361912473.096097
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_sailor.png
+xtechie_sailor.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_sailor.png" techie_sailor.pngb28342985892b541^639b18995892b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_sailor.png0000000000000000^958"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_sailor.png" techie_sailor.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/techie_sailor.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/techie_sailor.png"36"E2DCEF6A-304C-4266-8785-B95D3C1481FE-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/title_geosophic.png" title_geosophic.png
+s361912475.572088
+e361912475.855872
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/title_geosophic.png
+xtitle_geosophic.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/title_geosophic.png" title_geosophic.pngd387929b5892b541^9a23db9b5892b541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/title_geosophic.png0000000000000000^966"CopyPNGFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/title_geosophic.png" title_geosophic.png    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/title_geosophic.png "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/title_geosophic.png"36"7472116D-38A0-43D9-BE6E-7488B4D68280-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist"
+s361912414.833599
+e361912415.042009
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Copy Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.pliste44a095f5892b541^29e86a5f5892b541^---0#0#0#-19%DVTDocumentLocation2@240"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist000000000080d041^1114"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"5E1DCD0D-1574-408B-B96D-0ADA1EA4AFF7-
+
+CCpResource GeosophicSDKResources.bundle "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/GeosophicSDKResources.bundle"
+s361912415.449821
+e361912415.969304
+r1
+xCpResource
+xGeosophicSDKResources.bundle
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/GeosophicSDKResources.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Copy Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/GeosophicSDKResources.bundlea73b735f5892b541^6c25f85f5892b541^---0#0#0#-19%DVTDocumentLocation2@249"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/GeosophicSDKResources.bundle000000000080d041^1015"CpResource GeosophicSDKResources.bundle "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/GeosophicSDKResources.bundle"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/GeosophicSDKResources.bundle "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"DBB9FC5D-789E-4311-9C09-020E42182627-
+
+CCpResource buzzer.mp3 "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/buzzer.mp3"
+s361912415.450022
+e361912415.814751
+r1
+xCpResource
+xbuzzer.mp3
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/buzzer.mp3
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Copy Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/buzzer.mp34949735f5892b541^f295d05f5892b541^---0#0#0#-19%DVTDocumentLocation2@231"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/buzzer.mp3000000000080d041^961"CpResource buzzer.mp3 "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/buzzer.mp3"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/buzzer.mp3 "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"A7337DDC-C296-421C-951A-99C5E9621027-
+
+CCpResource win.m4a "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/win.m4a"
+s361912415.816210
+e361912415.859722
+r1
+xCpResource
+xwin.m4a
+xBuild/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/win.m4a
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Copy Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/win.m4a3203d15f5892b541^ad16dc5f5892b541^---0#0#0#-19%DVTDocumentLocation2@228"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/win.m4a000000000080d041^952"CpResource win.m4a "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/win.m4a"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/win.m4a "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"67C3E5D0-C96A-47E8-9D61-03F4FE426C29-
+
+CGenerateDSYMFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYM" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"
+s361912496.059977
+e361912496.446443
+r1
+xGenerateDSYMFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYM
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"Generating /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYMa06f0fb05892b541^664b72b05892b541^---0#0#0#-19%DVTDocumentLocation2@213"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYM000000000080d041^1025"GenerateDSYMFile "Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYM" "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor" -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app.dSYM"36"F26611F4-902A-44DB-88C2-5ACBAF4395B1-
+
+CLd "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor" normal armv7
+s361912494.683068
+e361912496.053648
+r1
+xLd
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection218"Link /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestorbd55afae5892b541^8cbb0db05892b541^---0#0#0#--1877"Ld "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor" normal armv7    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk "-L/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -L/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -filelist "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/Objects-normal/armv7/FindInvestor.LinkFileList" -dead_strip -miphoneos-version-min=5.1 -lGeosophicSDK -framework CoreText -framework UIKit -framework SystemConfiguration -framework CoreLocation -framework Foundation -framework CoreGraphics -framework Security -framework QuartzCore -framework AVFoundation -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"36"BCA51238-AC44-475A-BA3B-92AFBFC0839A-
+
+CProcessInfoPlistFile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/Info.plist" FindInvestor-Info.plist
+s361912414.833619
+e361912415.166507
+r1
+xProcessInfoPlistFile
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/Info.plist
+xFindInvestor-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Process FindInvestor-Info.plist164b095f5892b541^faee6a5f5892b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/FindInvestor-Info.plist0000000000000000^1244"ProcessInfoPlistFile "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/Info.plist" FindInvestor-Info.plist    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FindInvestor-Info.plist -genpkginfo "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/ResourceRules.plist" -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/Info.plist"36"D3A78581-C260-45CC-BF0C-4BCB60A597C8-
+
+CProcessPCH "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.pth" FindInvestor_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361912475.940752
+e361912491.188406
+r1
+xProcessPCH
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.pth
+xFindInvestor_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile FindInvestor_Prefix.pchf608f19b5892b541^c93a30ab5892b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/FindInvestor_Prefix.pch0000000000000000^4435"ProcessPCH "Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.pth" FindInvestor_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/include" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.dia" -c /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/FindInvestor_Prefix.pch -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/PrecompiledHeaders/FindInvestor_Prefix-fpfggzwdcvyufpghwdwzhuiktegm/FindInvestor_Prefix.pch.d"36"B8747E9A-7044-4694-9A1A-AF6212D867DC-
+
+CProcessPCH /Users/yeraycallero/Library/Developer/Xcode/DerivedData/FindInvestor-fctriydnfhdjqwgciocyyshxrzkw/Index/PrecompiledHeaders/FindInvestor_Prefix-ciqrwhwexcyaoygaxolejiffuwos_ast/FindInvestor_Prefix.pch.pth FindInvestor_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision"
+s361912496.598102
+e361912496.601695
+r1
+xProcessProductPackaging
+x/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection291"ProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision" "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision"b53299b05892b541^fb069ab05892b541^---0#0#0#-19%DVTDocumentLocation2@245"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision0000000000000000^950"ProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision" "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/BB3E4492-1228-45C4-B30D-A46C1492132A.mobileprovision" -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/embedded.mobileprovision"36"6E26AB1A-B735-4CEC-AE57-F878D5C61D6C-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent"
+s361912496.939544
+e361912496.978398
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection306"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent"f299f0b05892b541^f777fab05892b541^---0#0#0#-19%DVTDocumentLocation2@257"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent000000000080d041^1006"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist "Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/IntermediateBuildFilesPath/FindInvestor.build/Release-iphoneos/FindInvestor.build/FindInvestor.xcent"36"ADEDED21-F797-4EAC-AFF2-5929B00EF0CC-
+
+CSetMode u+w,go-w,a+rX "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+s361912496.789076
+e361912496.931861
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"SetMode u+w,go-w,a+rX "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"5e13cab05892b541^1d8eeeb05892b541^---0#0#0#-19%DVTDocumentLocation2@221"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/0000000000000000^656"SetMode u+w,go-w,a+rX "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/chmod -RH u+w,go-w,a+rX "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"F39AF5DF-1EA9-4628-B7D5-72D16D0ECC53-
+
+CSetOwnerAndGroup yeraycallero:staff "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+s361912496.687524
+e361912496.780903
+r1
+xSetOwnerAndGroup
+xyeraycallero:staff
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"SetOwnerAndGroup yeraycallero:staff "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"6214b0b05892b541^14e8c7b05892b541^---0#0#0#-19%DVTDocumentLocation2@221"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/0000000000000000^684"SetOwnerAndGroup "yeraycallero:staff" "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/sbin/chown -RH "yeraycallero:staff" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"864B9BCF-47E2-457F-95DE-F390C8260907-
+
+CStripping "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"
+s361912496.459928
+e361912496.523181
+r1
+xStripping
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Stripping "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"25cf75b05892b541^63ef85b05892b541^---0#0#0#-19%DVTDocumentLocation2@233"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor0000000000000000^734"Stripping "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/FindInvestor"36"4C6FF1DA-2215-42F0-9546-C149AB289D31-
+
+CSymLink "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+s361912414.833936
+e361912415.430589
+r1
+xSymLink
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection196"Process /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.appcf4b095f5892b541^53766e5f5892b541^---0#0#0#--929"SymLink "Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app" "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /bin/ln -sf "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app" "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/BuildProductsPath/Release-iphoneos/FindInvestor.app"36"6B48BB9B-B625-4B22-B142-420C777A7038-
+
+CTouch "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+s361912496.612166
+e361912496.679594
+r1
+xTouch
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection206"Touch /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app8dd59eb05892b541^dff9adb05892b541^---0#0#0#--629"Touch "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"0CBF0A95-F9AD-477B-B0AC-94CCDD0AA6F5-
+
+CValidate "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"
+s361912507.227463
+e361912508.562580
+r1
+xValidate
+x/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Validate "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"1e503abb5892b541^f20690bc5892b541^---0#0#0#-19%DVTDocumentLocation2@221"file://localhost/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find%20the%20investor/InstallationBuildProductsLocation/Applications/FindInvestor.app/0000000000000000^773"Validate "Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"    cd /Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation "/Users/yeraycallero/Trabajo/geosophic-code-repositories/where-is-the-investor/Build/Intermediates/ArchiveIntermediates/Find the investor/InstallationBuildProductsLocation/Applications/FindInvestor.app"36"200A3867-AD81-4EA7-A1BD-2DF9F31F18F8-
+

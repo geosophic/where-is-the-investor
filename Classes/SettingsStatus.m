@@ -1,9 +1,9 @@
 //
 //  SettingsStatus.m
-//  monkey
+//  Find the investor
 //
-//  Created by Yeray Callero on 15/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Yeray Callero on 12/06/12.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import "SettingsStatus.h"
@@ -13,6 +13,7 @@
 
 bool geosophicServiceEnabled;
 NSString* companyName;
+int lastLeaderboardId = -1;
 
 + (void) setGeosophicServiceStatus: (bool) newStatus
 {
@@ -26,14 +27,22 @@ NSString* companyName;
 
 + (void) setCompanyName: (NSString*) newCompanyName
 {
-    NSLog(@"Set company name %@", companyName);
     companyName = [newCompanyName retain];
 }
 
 +(NSString*) getCompanyName
 {
-    NSLog(@"Get company name %@", companyName);
     return companyName;
+}
+
++(void) setLastLeaderboardId:(int) leaderboardId
+{
+    lastLeaderboardId = leaderboardId;
+}
+
++(int) getLastLeaderboardId
+{
+    return lastLeaderboardId;
 }
 
 @end

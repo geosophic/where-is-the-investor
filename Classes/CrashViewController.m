@@ -1,9 +1,9 @@
 //
 //  CrashViewController.m
-//  monkey
+//  Find the investor
 //
 //  Created by Yeray Callero on 12/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import "CrashViewController.h"
@@ -48,10 +48,7 @@ double equity;
 
 - (void) setTitle 
 {
-    //if (cash <= 0)
-        [titleText setText:@"You run out of money"];
-    //else
-     //   [titleText setText:@"You lost your company"];
+    [titleText setText:@"You run out of money!!!"];
 }
 
 - (void) setImage
@@ -61,10 +58,7 @@ double equity;
 
 - (void) setMessage 
 {
-    //if (cash <= 0)
-    //    [messageText setText:@"You go to jail because of you can't pay your debts."];
-    //else
-        [messageText setText:@"You lost your company. Take your things and leave the building."];
+    [messageText setText:@"You lost your company. Take your things and leave the building."];
 }
 
 - (IBAction)closeAction:(id)sender
@@ -79,8 +73,6 @@ double equity;
     [self setMessageText:nil];
     [self setCloseButton:nil];
     [super viewDidUnload];
-    // Release any retained subviews of the main view.
-    // e.g. self.myOutlet = nil;
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation

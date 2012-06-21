@@ -1,16 +1,16 @@
 //
-//  monkeyViewController.h
-//  monkey
+//  boardViewController.h
+//  Find the investor
 //
-//  Created by Robert Diamond on 4/9/11.
-//  Copyright 2011 none. All rights reserved.
+//  Created by Yeray Callero on 12/06/12.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
 #import "AUIAnimatableLabel.h"
 
-@interface monkeyViewController : UIViewController<AVAudioPlayerDelegate> {
+@interface boardViewController : UIViewController<AVAudioPlayerDelegate> {
 	NSUInteger hiddenInvestor;
     NSUInteger hiddenCustomer;
 	float equity_remaining;

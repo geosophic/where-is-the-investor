@@ -7,23 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D3623260D0F684500981E51 /* monkeyAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* monkeyAppDelegate.m */; };
+		1D3623260D0F684500981E51 /* gpcAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* gpcAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
-		2899E5220DE3E06400AC0155 /* monkeyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* monkeyViewController.xib */; };
+		2899E5220DE3E06400AC0155 /* boardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* boardViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
-		28D7ACF80DDB3853001CB0EB /* monkeyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* monkeyViewController.m */; };
-		836AF90D1351886600C73066 /* monkey_toy.png in Resources */ = {isa = PBXBuildFile; fileRef = 836AF90C1351886600C73066 /* monkey_toy.png */; };
+		28D7ACF80DDB3853001CB0EB /* boardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* boardViewController.m */; };
 		836AF91B13518CA900C73066 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 836AF91A13518CA900C73066 /* Security.framework */; };
 		836AF9711351FBE500C73066 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 836AF9701351FBE500C73066 /* QuartzCore.framework */; };
-		836AFA5D13520D8B00C73066 /* monkey_toy_57.png in Resources */ = {isa = PBXBuildFile; fileRef = 836AFA5B13520D8B00C73066 /* monkey_toy_57.png */; };
-		836AFA5E13520D8B00C73066 /* monkey_toy_114.png in Resources */ = {isa = PBXBuildFile; fileRef = 836AFA5C13520D8B00C73066 /* monkey_toy_114.png */; };
-		836AFA6313520F6C00C73066 /* title.png in Resources */ = {isa = PBXBuildFile; fileRef = 836AFA6113520F6C00C73066 /* title.png */; };
-		836AFA6413520F6C00C73066 /* title@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 836AFA6213520F6C00C73066 /* title@2x.png */; };
 		83DC0AD4135220F100BF3427 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83DC0AD3135220F100BF3427 /* AVFoundation.framework */; };
-		83DC0B1B1352237E00BF3427 /* IMG_0035.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 83DC0B1A1352237E00BF3427 /* IMG_0035.JPG */; };
 		83DC0B261352252000BF3427 /* buzzer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83DC0B251352252000BF3427 /* buzzer.mp3 */; };
 		83DC0B5D13522CF800BF3427 /* win.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 83DC0B5C13522CF800BF3427 /* win.m4a */; };
 		C93685DA15869CAA003178FB /* newbie_shark.png in Resources */ = {isa = PBXBuildFile; fileRef = C93685D915869CAA003178FB /* newbie_shark.png */; };
@@ -53,38 +47,36 @@
 		C9368646158B7C8D003178FB /* logo_blanco.png in Resources */ = {isa = PBXBuildFile; fileRef = C9368645158B7C8D003178FB /* logo_blanco.png */; };
 		C9368648158B865B003178FB /* bg_negative_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C9368647158B8659003178FB /* bg_negative_icon.png */; };
 		C936864A158B951D003178FB /* title_geosophic.png in Resources */ = {isa = PBXBuildFile; fileRef = C9368649158B951D003178FB /* title_geosophic.png */; };
+		C95B84DE159244400080D6CC /* iphoneLrg.png in Resources */ = {isa = PBXBuildFile; fileRef = C95B84DD159244400080D6CC /* iphoneLrg.png */; };
+		C95B84E01592451F0080D6CC /* iphoneLrg_57.png in Resources */ = {isa = PBXBuildFile; fileRef = C95B84DF1592451F0080D6CC /* iphoneLrg_57.png */; };
+		C965FE5E158F65C1004E707D /* libGeosophicSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C965FE5D158F65C1004E707D /* libGeosophicSDK.a */; };
+		C965FE60158F65DD004E707D /* GeosophicSDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C965FE5F158F65DD004E707D /* GeosophicSDKResources.bundle */; };
+		C965FE66158F7553004E707D /* button_square.png in Resources */ = {isa = PBXBuildFile; fileRef = C965FE65158F7553004E707D /* button_square.png */; };
+		C965FE68158F793D004E707D /* button_square_114.png in Resources */ = {isa = PBXBuildFile; fileRef = C965FE67158F793D004E707D /* button_square_114.png */; };
 		C9A3B4E4158017C100DE6EA0 /* money_bag.png in Resources */ = {isa = PBXBuildFile; fileRef = C9A3B4E3158017C100DE6EA0 /* money_bag.png */; };
-		C9A3B4E61580AF9B00DE6EA0 /* libGeosophicSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C9A3B4E51580AF9B00DE6EA0 /* libGeosophicSDK.a */; };
-		C9A3B4EA1580B32C00DE6EA0 /* GeosophicSDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C9A3B4E91580B32C00DE6EA0 /* GeosophicSDKResources.bundle */; };
 		C9A3B4EC1580B39E00DE6EA0 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9A3B4EB1580B39E00DE6EA0 /* CoreLocation.framework */; };
 		C9A3B4EE1580B3AC00DE6EA0 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9A3B4ED1580B3AC00DE6EA0 /* SystemConfiguration.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* monkeyAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = monkeyAppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* monkeyAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = monkeyAppDelegate.m; sourceTree = "<group>"; };
-		1D6058910D05DD3D006BFB54 /* monkey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = monkey.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D3623240D0F684500981E51 /* gpcAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gpcAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* gpcAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gpcAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* FindInvestor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FindInvestor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		2899E5210DE3E06400AC0155 /* monkeyViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = monkeyViewController.xib; sourceTree = "<group>"; };
+		2899E5210DE3E06400AC0155 /* boardViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = boardViewController.xib; sourceTree = "<group>"; };
 		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
-		28D7ACF60DDB3853001CB0EB /* monkeyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = monkeyViewController.h; sourceTree = "<group>"; };
-		28D7ACF70DDB3853001CB0EB /* monkeyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = monkeyViewController.m; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* boardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = boardViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* boardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = boardViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		32CA4F630368D1EE00C91783 /* monkey_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = monkey_Prefix.pch; sourceTree = "<group>"; };
-		836AF90C1351886600C73066 /* monkey_toy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monkey_toy.png; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* FindInvestor_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindInvestor_Prefix.pch; sourceTree = "<group>"; };
 		836AF91A13518CA900C73066 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		836AF9701351FBE500C73066 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		836AFA5B13520D8B00C73066 /* monkey_toy_57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monkey_toy_57.png; sourceTree = "<group>"; };
-		836AFA5C13520D8B00C73066 /* monkey_toy_114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monkey_toy_114.png; sourceTree = "<group>"; };
-		836AFA6113520F6C00C73066 /* title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title.png; sourceTree = "<group>"; };
-		836AFA6213520F6C00C73066 /* title@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "title@2x.png"; sourceTree = "<group>"; };
 		83DC0AD3135220F100BF3427 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		83DC0B1A1352237E00BF3427 /* IMG_0035.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0035.JPG; sourceTree = "<group>"; };
 		83DC0B251352252000BF3427 /* buzzer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = buzzer.mp3; sourceTree = "<group>"; };
 		83DC0B5C13522CF800BF3427 /* win.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = win.m4a; sourceTree = "<group>"; };
-		8D1107310486CEB800E47090 /* monkey-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "monkey-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* FindInvestor-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FindInvestor-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		C93685D915869CAA003178FB /* newbie_shark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newbie_shark.png; sourceTree = "<group>"; };
 		C93685E115869E3C003178FB /* InvestorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InvestorViewController.h; sourceTree = "<group>"; };
 		C93685E215869E3C003178FB /* InvestorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvestorViewController.m; sourceTree = "<group>"; };
@@ -121,9 +113,17 @@
 		C9368645158B7C8D003178FB /* logo_blanco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_blanco.png; sourceTree = "<group>"; };
 		C9368647158B8659003178FB /* bg_negative_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_negative_icon.png; sourceTree = "<group>"; };
 		C9368649158B951D003178FB /* title_geosophic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_geosophic.png; sourceTree = "<group>"; };
+		C95B84DD159244400080D6CC /* iphoneLrg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphoneLrg.png; sourceTree = "<group>"; };
+		C95B84DF1592451F0080D6CC /* iphoneLrg_57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphoneLrg_57.png; sourceTree = "<group>"; };
+		C965FE59158F65A8004E707D /* Geosophic_Leaderboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Geosophic_Leaderboard.h; sourceTree = SOURCE_ROOT; };
+		C965FE5A158F65A8004E707D /* Geosophic_ScoreResponse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Geosophic_ScoreResponse.h; sourceTree = SOURCE_ROOT; };
+		C965FE5B158F65A8004E707D /* GeosophicServiceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeosophicServiceController.h; sourceTree = SOURCE_ROOT; };
+		C965FE5D158F65C1004E707D /* libGeosophicSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGeosophicSDK.a; sourceTree = "<group>"; };
+		C965FE5F158F65DD004E707D /* GeosophicSDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = GeosophicSDKResources.bundle; sourceTree = "<group>"; };
+		C965FE64158F6D18004E707D /* GeosophicSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GeosophicSDK.h; path = "../../geosophic-sdk-ios/MyLibrary/GeosophicSDK.h"; sourceTree = "<group>"; };
+		C965FE65158F7553004E707D /* button_square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_square.png; sourceTree = "<group>"; };
+		C965FE67158F793D004E707D /* button_square_114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_square_114.png; sourceTree = "<group>"; };
 		C9A3B4E3158017C100DE6EA0 /* money_bag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = money_bag.png; sourceTree = "<group>"; };
-		C9A3B4E51580AF9B00DE6EA0 /* libGeosophicSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libGeosophicSDK.a; path = "../../Android_architectural_study/mattjgalloway-ios-library-with-resources-c4754a8/MyLibrary/Build/Products/Debug-universal/libGeosophicSDK.a"; sourceTree = "<group>"; };
-		C9A3B4E91580B32C00DE6EA0 /* GeosophicSDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = GeosophicSDKResources.bundle; path = "../../Android_architectural_study/mattjgalloway-ios-library-with-resources-c4754a8/MyLibrary/Build/Products/Debug-iphonesimulator/GeosophicSDKResources.bundle"; sourceTree = "<group>"; };
 		C9A3B4EB1580B39E00DE6EA0 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		C9A3B4ED1580B3AC00DE6EA0 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -133,11 +133,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C965FE5E158F65C1004E707D /* libGeosophicSDK.a in Frameworks */,
 				C9368636158A51F1003178FB /* CoreText.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				C9A3B4EE1580B3AC00DE6EA0 /* SystemConfiguration.framework in Frameworks */,
 				C9A3B4EC1580B39E00DE6EA0 /* CoreLocation.framework in Frameworks */,
-				C9A3B4E61580AF9B00DE6EA0 /* libGeosophicSDK.a in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
 				836AF91B13518CA900C73066 /* Security.framework in Frameworks */,
@@ -152,11 +152,12 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				C965FE58158F6588004E707D /* Geosophic headers */,
 				C936862E158A4F73003178FB /* Animation */,
-				1D3623240D0F684500981E51 /* monkeyAppDelegate.h */,
-				1D3623250D0F684500981E51 /* monkeyAppDelegate.m */,
-				28D7ACF60DDB3853001CB0EB /* monkeyViewController.h */,
-				28D7ACF70DDB3853001CB0EB /* monkeyViewController.m */,
+				1D3623240D0F684500981E51 /* gpcAppDelegate.h */,
+				1D3623250D0F684500981E51 /* gpcAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* boardViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* boardViewController.m */,
 				C93685E115869E3C003178FB /* InvestorViewController.h */,
 				C93685E215869E3C003178FB /* InvestorViewController.m */,
 				C93685E61587592E003178FB /* InvestorType.h */,
@@ -178,7 +179,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* monkey.app */,
+				1D6058910D05DD3D006BFB54 /* FindInvestor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -186,11 +187,11 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				C965FE5F158F65DD004E707D /* GeosophicSDKResources.bundle */,
+				C965FE5D158F65C1004E707D /* libGeosophicSDK.a */,
 				C9368635158A51F0003178FB /* CoreText.framework */,
 				C9A3B4ED1580B3AC00DE6EA0 /* SystemConfiguration.framework */,
 				C9A3B4EB1580B39E00DE6EA0 /* CoreLocation.framework */,
-				C9A3B4E91580B32C00DE6EA0 /* GeosophicSDKResources.bundle */,
-				C9A3B4E51580AF9B00DE6EA0 /* libGeosophicSDK.a */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -203,7 +204,7 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				32CA4F630368D1EE00C91783 /* monkey_Prefix.pch */,
+				32CA4F630368D1EE00C91783 /* FindInvestor_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
 			name = "Other Sources";
@@ -212,6 +213,10 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				C95B84DF1592451F0080D6CC /* iphoneLrg_57.png */,
+				C95B84DD159244400080D6CC /* iphoneLrg.png */,
+				C965FE67158F793D004E707D /* button_square_114.png */,
+				C965FE65158F7553004E707D /* button_square.png */,
 				C9368649158B951D003178FB /* title_geosophic.png */,
 				C9368647158B8659003178FB /* bg_negative_icon.png */,
 				C9368645158B7C8D003178FB /* logo_blanco.png */,
@@ -232,15 +237,9 @@
 				C9A3B4E3158017C100DE6EA0 /* money_bag.png */,
 				83DC0B5C13522CF800BF3427 /* win.m4a */,
 				83DC0B251352252000BF3427 /* buzzer.mp3 */,
-				83DC0B1A1352237E00BF3427 /* IMG_0035.JPG */,
-				836AFA6113520F6C00C73066 /* title.png */,
-				836AFA6213520F6C00C73066 /* title@2x.png */,
-				836AFA5B13520D8B00C73066 /* monkey_toy_57.png */,
-				836AFA5C13520D8B00C73066 /* monkey_toy_114.png */,
-				836AF90C1351886600C73066 /* monkey_toy.png */,
-				2899E5210DE3E06400AC0155 /* monkeyViewController.xib */,
+				2899E5210DE3E06400AC0155 /* boardViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
-				8D1107310486CEB800E47090 /* monkey-Info.plist */,
+				8D1107310486CEB800E47090 /* FindInvestor-Info.plist */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -269,12 +268,23 @@
 			name = Animation;
 			sourceTree = "<group>";
 		};
+		C965FE58158F6588004E707D /* Geosophic headers */ = {
+			isa = PBXGroup;
+			children = (
+				C965FE64158F6D18004E707D /* GeosophicSDK.h */,
+				C965FE59158F65A8004E707D /* Geosophic_Leaderboard.h */,
+				C965FE5A158F65A8004E707D /* Geosophic_ScoreResponse.h */,
+				C965FE5B158F65A8004E707D /* GeosophicServiceController.h */,
+			);
+			name = "Geosophic headers";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D6058900D05DD3D006BFB54 /* monkey */ = {
+		1D6058900D05DD3D006BFB54 /* FindInvestor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "monkey" */;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FindInvestor" */;
 			buildPhases = (
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
@@ -284,9 +294,9 @@
 			);
 			dependencies = (
 			);
-			name = monkey;
+			name = FindInvestor;
 			productName = monkey;
-			productReference = 1D6058910D05DD3D006BFB54 /* monkey.app */;
+			productReference = 1D6058910D05DD3D006BFB54 /* FindInvestor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -297,7 +307,7 @@
 			attributes = {
 				LastUpgradeCheck = 0430;
 			};
-			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "monkey" */;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FindInvestor" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
@@ -311,7 +321,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D6058900D05DD3D006BFB54 /* monkey */,
+				1D6058900D05DD3D006BFB54 /* FindInvestor */,
 			);
 		};
 /* End PBXProject section */
@@ -321,15 +331,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C9A3B4EA1580B32C00DE6EA0 /* GeosophicSDKResources.bundle in Resources */,
+				C965FE60158F65DD004E707D /* GeosophicSDKResources.bundle in Resources */,
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
-				2899E5220DE3E06400AC0155 /* monkeyViewController.xib in Resources */,
-				836AF90D1351886600C73066 /* monkey_toy.png in Resources */,
-				836AFA5D13520D8B00C73066 /* monkey_toy_57.png in Resources */,
-				836AFA5E13520D8B00C73066 /* monkey_toy_114.png in Resources */,
-				836AFA6313520F6C00C73066 /* title.png in Resources */,
-				836AFA6413520F6C00C73066 /* title@2x.png in Resources */,
-				83DC0B1B1352237E00BF3427 /* IMG_0035.JPG in Resources */,
+				2899E5220DE3E06400AC0155 /* boardViewController.xib in Resources */,
 				83DC0B261352252000BF3427 /* buzzer.mp3 in Resources */,
 				83DC0B5D13522CF800BF3427 /* win.m4a in Resources */,
 				C9A3B4E4158017C100DE6EA0 /* money_bag.png in Resources */,
@@ -350,6 +354,10 @@
 				C9368646158B7C8D003178FB /* logo_blanco.png in Resources */,
 				C9368648158B865B003178FB /* bg_negative_icon.png in Resources */,
 				C936864A158B951D003178FB /* title_geosophic.png in Resources */,
+				C965FE66158F7553004E707D /* button_square.png in Resources */,
+				C965FE68158F793D004E707D /* button_square_114.png in Resources */,
+				C95B84DE159244400080D6CC /* iphoneLrg.png in Resources */,
+				C95B84E01592451F0080D6CC /* iphoneLrg_57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,8 +369,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1D3623260D0F684500981E51 /* monkeyAppDelegate.m in Sources */,
-				28D7ACF80DDB3853001CB0EB /* monkeyViewController.m in Sources */,
+				1D3623260D0F684500981E51 /* gpcAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* boardViewController.m in Sources */,
 				C93685E415869E3C003178FB /* InvestorViewController.m in Sources */,
 				C93685E81587592E003178FB /* InvestorType.m in Sources */,
 				C93685F41587B3F6003178FB /* CustomerViewController.m in Sources */,
@@ -387,14 +395,15 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = monkey_Prefix.pch;
-				INFOPLIST_FILE = "monkey-Info.plist";
+				GCC_PREFIX_HEADER = FindInvestor_Prefix.pch;
+				INFOPLIST_FILE = "FindInvestor-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/../../Android_architectural_study/mattjgalloway-ios-library-with-resources-c4754a8/MyLibrary/Build/Products/Debug-universal\"",
+					"\"$(SRCROOT)\"",
 				);
-				PRODUCT_NAME = monkey;
-				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/../../Android_architectural_study/mattjgalloway-ios-library-with-resources-c4754a8/MyLibrary/Build/Products/Debug-iphonesimulator/include";
+				PRODUCT_NAME = FindInvestor;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Debug;
 		};
@@ -405,14 +414,15 @@
 				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = monkey_Prefix.pch;
-				INFOPLIST_FILE = "monkey-Info.plist";
+				GCC_PREFIX_HEADER = FindInvestor_Prefix.pch;
+				INFOPLIST_FILE = "FindInvestor-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/../../Android_architectural_study/mattjgalloway-ios-library-with-resources-c4754a8/MyLibrary/Build/Products/Debug-universal\"",
+					"\"$(SRCROOT)\"",
 				);
-				PRODUCT_NAME = monkey;
-				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/../../Android_architectural_study/mattjgalloway-ios-library-with-resources-c4754a8/MyLibrary/Build/Products/Debug-iphonesimulator/include";
+				PRODUCT_NAME = FindInvestor;
+				USER_HEADER_SEARCH_PATHS = "";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -425,6 +435,7 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -433,11 +444,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Geosophic Limited";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PRODUCT_NAME = "Where's the investor?";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "BB3E4492-1228-45C4-B30D-A46C1492132A";
 				SDKROOT = iphoneos;
 			};
 			name = Release;
@@ -445,7 +458,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "monkey" */ = {
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FindInvestor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D6058940D05DD3E006BFB54 /* Debug */,
@@ -454,7 +467,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "monkey" */ = {
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FindInvestor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,

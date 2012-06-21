@@ -1,19 +1,17 @@
 //
 //  ResultsViewController.m
-//  monkey
+//  Find the investor
 //
 //  Created by Yeray Callero on 12/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import "ResultsViewController.h"
-#import "GeosophicServiceController.h"
+#import "GeosophicSDK.h"
 #import "SettingsStatus.h"
-#import "GeosophicServiceUserIdentification.h"
-#import "Geosophic_ScoreResponse.h"
-#import "Geosophic_Leaderboard.h"
 
 #define kBackGroudQueue dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0)
+#define bestCompanyLeaderboardId 7
 
 @interface ResultsViewController ()
 
@@ -60,7 +58,7 @@ NSString* companyName;
             [self performSelectorOnMainThread:@selector(updateCompanyName:) 
                                    withObject:nil waitUntilDone:YES];
             NSError* error = nil;
-            Geosophic_ScoreResponse* scoreResponse = [GeosophicServiceController postScore:points withNickname:companyName inLeaderboard:bestEntrepreneurLeaderboardId error:&error];
+            Geosophic_ScoreResponse* scoreResponse = [GeosophicServiceController postScore:points withNickname:companyName inLeaderboard:bestCompanyLeaderboardId error:&error];
             BOOL highscore;
             int leaderboardId;
             if (!error) {
@@ -72,8 +70,22 @@ NSString* companyName;
                     [self performSelectorOnMainThread:@selector(updateHighscoreLabel:) 
                                        withObject:@"Score uploaded." waitUntilDone:NO];
                 leaderboardId = [scoreResponse getLeaderboardId];
-                Geosophic_Leaderboard* leaderboard = [GeosophicServiceController getLeaderboardById:leaderboardId withOffset:0 withNumberOfScores:10 error:&error];
-                NSLog(@"After send score recieves %@", [leaderboard getScores]);
+                [self performSelectorOnMainThread:@selector(updateLastLeaderboardId:) 
+                                       withObject:[NSNumber numberWithInt:leaderboardId] waitUntilDone:NO];
+            } else {
+                [self performSelectorOnMainThread:@selector(updateHighscoreLabel:) 
+                                       withObject:@"" waitUntilDone:NO];
+                switch (error.code) {
+                    case 404:
+                        [self performSelectorOnMainThread:@selector(showAlert:) 
+                                               withObject:@"There's not available network now. Your score will be updated as soon as posible." waitUntilDone:NO];
+                        break;
+                        
+                    default:
+                        [self performSelectorOnMainThread:@selector(showAlert:) 
+                                               withObject:@"Something is going wrong in the Geosophic service rigth now. Your score will be updated as soon as posible." waitUntilDone:NO];
+                        break;
+                }
                 
             }
         });
@@ -81,17 +93,30 @@ NSString* companyName;
     // Do any additional setup after loading the view from its nib.
 }
 
+- (void) showAlert:(NSString*) alertMessage
+{
+    UIAlertView *alertView = [[[UIAlertView alloc] initWithTitle:@"Geosophic service problem" message:alertMessage delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil] autorelease];
+    [alertView show];   
+}
+
+- (void)alertView:(UIAlertView*)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex
+{
+    
+}
+
 - (void) updateHighscoreLabel:(NSString*) text
 {
-    [UIView animateWithDuration:1.0 animations:^{
-        highscoreLabel.text = text;
-    }];   
+    highscoreLabel.text = text;   
 }
 
 - (void) updateCompanyName:(NSString*) text
 {
    companyName = [SettingsStatus getCompanyName];
-    NSLog(@"Company name: %@", companyName);
+}
+
+- (void) updateLastLeaderboardId:(NSNumber*) id
+{
+    [SettingsStatus setLastLeaderboardId:[id intValue]];
 }
 
 - (void)viewDidUnload
@@ -108,6 +133,32 @@ NSString* companyName;
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
 {
     return (interfaceOrientation == UIInterfaceOrientationPortrait);
+}
+
+-(IBAction)showHighscores:(id)sender
+{
+    if ([SettingsStatus isGeosophicServiceEnabled]) {
+        int leaderboardId = [SettingsStatus getLastLeaderboardId];
+        NSError* error = nil;
+        UIViewController* geosophicView;
+        geosophicView = [GeosophicServiceController getGeosophicDashboardView:leaderboardId withSchema:bestCompanyLeaderboardId withOffset:0 withNumberOfScores:10 error:&error];
+    
+        if (error != nil) {
+            switch (error.code) {
+                case 404:
+                    [self showAlert:@"There's not available network now. Try again in a few minutes."];
+                    break;
+                
+                default:
+                    [self showAlert:@"Something is going wrong in the Geosophic service rigth now. Try again in a few minutes."];
+                    break;
+            }
+        } else
+            [self presentModalViewController:geosophicView animated:TRUE];
+    } else {
+        [self showAlert:@"Geosophic service is not active. You need to activate it to see the highscores."];
+    }
+   
 }
 
 -(IBAction)closeAction:(id)sender

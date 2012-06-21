@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'monkey' target in the 'monkey' project
+// Prefix header for all source files of the 'Find the investor' target in the 'Find the investor' project
 //
 
 #ifdef __OBJC__

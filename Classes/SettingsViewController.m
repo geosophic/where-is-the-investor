@@ -1,13 +1,14 @@
 //
 //  SettingsViewController.m
-//  monkey
+//  Find the investor
 //
-//  Created by Yeray Callero on 15/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Yeray Callero on 12/06/12.
+//  Copyright (c) 2012 Geosophic Ltd. All rights reserved.
 //
 
 #import "SettingsViewController.h"
 #import "SettingsStatus.h"
+#import "GeosophicSDK.h"
 
 @interface SettingsViewController ()
 
@@ -78,11 +79,14 @@
             UIAlertView *alertView = [[[UIAlertView alloc] initWithTitle:@"Your company name" message:@"Your company needs a name to use in it Geosophic service." delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil] autorelease];
                 [alertView show];    
             [serviceStatus setOn:FALSE];
+            [GeosophicServiceController stopService];
         } else {
             [SettingsStatus setGeosophicServiceStatus:status];
+             [GeosophicServiceController initService:@"442163249fnDpN5EIsdgsJzEwoP3IVMUQ" withSecret:@"RZTB1UDM0YC5DQ1R52HRBASMV4DAGS0ZSVG1TNZE4Q2ERF4SB2"];
         }
     } else {
         [SettingsStatus setGeosophicServiceStatus:status];
+        [GeosophicServiceController stopService];
     }
 }
 
