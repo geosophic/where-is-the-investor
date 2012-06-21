@@ -1,0 +1,485 @@
+Tmonkey
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist
+cProcessInfoPlistFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/Info.plist" monkey-Info.plist
+cCompileXIB "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/MainWindow.xib"
+cCompileXIB "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkeyViewController.xib"
+cCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy.png" monkey_toy.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_57.png" monkey_toy_57.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_114.png" monkey_toy_114.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title.png" title.png
+cCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title@2x.png" title@2x.png
+cCpResource IMG_0035.JPG Build/Products/Debug-iphoneos/monkey.app/IMG_0035.JPG
+cCpResource buzzer.mp3 Build/Products/Debug-iphoneos/monkey.app/buzzer.mp3
+cCpResource win.m4a Build/Products/Debug-iphoneos/monkey.app/win.m4a
+cProcessPCH "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.pth" monkey_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey" normal armv7
+cGenerateDSYMFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app.dSYM" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey"
+cProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision"
+cProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision"
+cTouch "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent"
+cCodeSign "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004F74EAE500000000000001A7
+t1333062373
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004F74EAE500000000000001E5
+t1333062373
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004F74EAE6000000000015B230
+t1333062374
+s1421872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F74EAE700000000003AE430
+t1333062375
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F74EAE8000000000052C940
+t1333062376
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F74EAE70000000000001534
+t1333062375
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F74EAE80000000000175AA0
+t1333062376
+s1530528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004F74EAE800000000000CE180
+t1333062376
+s844160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F74EAE80000000000000BF5
+t1333062376
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F74EAE90000000000798EA0
+t1333062377
+s7966368
+
+N/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision
+c000000004FC90CB40000000000001C9C
+t1338576052
+s7324
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.pth
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkey.LinkFileList
+c000000004FCFCB210000000000000230
+t1339018017
+s560
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.o
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app.dSYM
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/IMG_0035.JPG
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/Info.plist
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/MainWindow.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/PkgInfo
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/buzzer.mp3
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkeyViewController.nib
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_114.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_57.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title@2x.png
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/win.m4a
+t2
+s0
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyAppDelegate.m
+c000000004DA479260000000000000A99
+t1302624550
+s2713
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyViewController.m
+c000000004DA4792600000000000019D7
+t1302624550
+s6615
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/IMG_0035.JPG
+c000000004DA47926000000000000E616
+t1302624550
+s58902
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/MainWindow.xib
+c000000004DA479260000000000004E1D
+t1302624550
+s19997
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/buzzer.mp3
+c000000004DA47926000000000000661B
+t1302624550
+s26139
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/main.m
+c000000004DA47926000000000000015C
+t1302624550
+s348
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkeyViewController.xib
+c000000004DA479260000000000007D79
+t1302624550
+s32121
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_Prefix.pch
+c000000004DA4792600000000000000B5
+t1302624550
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_toy.png
+c000000004DA47926000000000001C705
+t1302624550
+s116485
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_toy_114.png
+c000000004DA479260000000000003512
+t1302624550
+s13586
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_toy_57.png
+c000000004DA479260000000000001352
+t1302624550
+s4946
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/title.png
+c000000004DA47926000000000000B94F
+t1302624550
+s47439
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/title@2x.png
+c000000004DA47926000000000001B5BC
+t1302624550
+s112060
+
+N/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/win.m4a
+c000000004DA47926000000000001F80A
+t1302624550
+s129034
+
+Nmonkey-Info.plist
+c000000004DA479260000000000000413
+t1302624550
+s1043
+
+CBuild AST from "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyAppDelegate.m"
+r0
+
+CBuild AST from "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyViewController.m"
+r0
+
+CBuild AST from "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb6d8d1a00280b541^032618a10280b541^---0#1#0#--18"Check dependencies36"61BC7D5C-7CF9-4A50-92FD-277AAE1894DF-
+
+CCodeSign "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"
+s360710824.927043
+e360710827.339607
+r1
+xCodeSign
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CodeSign Build/Products/Debug-iphoneos/monkey.app8f6deda80280b541^8df056ab0280b541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Products/Debug-iphoneos/monkey.app/0000000000000000^1027"CodeSign Build/Products/Debug-iphoneos/monkey.app    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 0dcf4c8cc4d101ed2295cf4cbc568a578fd767ae "--resource-rules=/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist" --entitlements "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"36"7DEC8508-5A5B-42AC-A6E7-95B3F2972663-
+
+CCompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360710821.972989
+e360710823.379900
+r1
+xCompileC
+xBuild/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.o
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/main.m5249f9a50280b541^134461a70280b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/main.m0000000000000000^3807"CompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.o main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/include" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos" -include "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.dia" -c "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/main.m" -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/main.o"36"32F2902C-A409-4C4F-92C7-43EFC50B2AF2-
+
+CCompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360710821.973722
+e360710823.462709
+r1
+xCompileC
+xBuild/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.o
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyAppDelegate.md593f9a50280b541^0c7376a70280b541^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Classes/monkeyAppDelegate.m0000000000000000^3901"CompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.o Classes/monkeyAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/include" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos" -include "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.dia" -c "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyAppDelegate.m" -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyAppDelegate.o"36"CA12EDEB-61C7-4BB0-B76E-2ABEBF61A558-
+
+CCompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360710821.974076
+e360710823.482631
+r1
+xCompileC
+xBuild/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.o
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyViewController.m9ab4f9a50280b541^878c7ba70280b541^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Classes/monkeyViewController.m0000000000000000^3919"CompileC Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.o Classes/monkeyViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/include" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos" -include "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.d" --serialize-diagnostics "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.dia" -c "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Classes/monkeyViewController.m" -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkeyViewController.o"36"18485093-773E-4C02-BC64-256F45891469-
+
+CCompileXIB "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/MainWindow.xib"
+s360710817.253300
+e360710817.615091
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compiling /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/MainWindow.xibf7ca44a10280b541^dca19da10280b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/MainWindow.xib0000000000000000^947"CompileXIB MainWindow.xib    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/MainWindow.nib" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/MainWindow.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"6F83B21D-5ACC-4BA5-94DC-78B8C65626A0-
+
+CCompileXIB "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkeyViewController.xib"
+s360710817.253439
+e360710817.815515
+r1
+xCompileXIB
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkeyViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compiling /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkeyViewController.xib7dcf44a10280b541^1502d1a10280b541^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/monkeyViewController.xib0000000000000000^977"CompileXIB monkeyViewController.xib    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkeyViewController.nib" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkeyViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"FF4174AB-92F8-450C-AEF3-27A8A9677494-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy.png" monkey_toy.png
+s360710817.267352
+e360710819.090384
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy.png
+xmonkey_toy.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/monkey_toy.png monkey_toy.png8fe244a10280b541^572317a30280b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/monkey_toy.png0000000000000000^814"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/monkey_toy.png monkey_toy.png    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_toy.png" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy.png"36"019D4630-DFD6-40E4-8CD6-95D1DD26BFDE-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_114.png" monkey_toy_114.png
+s360710817.648657
+e360710818.253657
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_114.png
+xmonkey_toy_114.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/monkey_toy_114.png monkey_toy_114.png732da6a10280b541^f4f940a20280b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/monkey_toy_114.png0000000000000000^830"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/monkey_toy_114.png monkey_toy_114.png    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_toy_114.png" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_114.png"36"1F78DEEC-E098-48DE-ADA3-0AD7EE42A143-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_57.png" monkey_toy_57.png
+s360710817.268787
+e360710818.199000
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_57.png
+xmonkey_toy_57.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/monkey_toy_57.png monkey_toy_57.png58e744a10280b541^c50233a20280b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/monkey_toy_57.png0000000000000000^826"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/monkey_toy_57.png monkey_toy_57.png    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_toy_57.png" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey_toy_57.png"36"AC5A2EA3-3E49-4FDE-AAEE-9D8C240271D6-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title.png" title.png
+s360710817.832063
+e360710818.421212
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title.png
+xtitle.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/title.png title.png4b20d5a10280b541^28d46ba20280b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/title.png0000000000000000^794"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/title.png title.png    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/title.png" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title.png"36"F240EE0B-95DA-44EE-B3A1-34AAA9D5E974-
+
+CCopyPNGFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title@2x.png" title@2x.png
+s360710818.200401
+e360710819.026784
+r1
+xCopyPNGFile
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title@2x.png
+xtitle@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"CopyPNGFile Build/Products/Debug-iphoneos/monkey.app/title@2x.png title@2x.pngd86633a20280b541^cbda06a30280b541^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/title@2x.png0000000000000000^810"CopyPNGFile "Build/Products/Debug-iphoneos/monkey.app/title@2x.png" "title@2x.png"    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/title@2x.png" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/title@2x.png"36"00BA2407-D1C0-4331-ADAE-DFA7922FFFA4-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist
+s360710817.109469
+e360710817.192488
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/monkey.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist6adf1ca10280b541^304a3ca10280b541^---0#0#0#-19%DVTDocumentLocation2@172"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist000000000080d041^949"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"36"8B1F6D41-5F10-4909-8F63-07FB384FEA09-
+
+CCpResource IMG_0035.JPG Build/Products/Debug-iphoneos/monkey.app/IMG_0035.JPG
+s360710818.255351
+e360710818.266388
+r1
+xCpResource
+xIMG_0035.JPG
+xBuild/Products/Debug-iphoneos/monkey.app/IMG_0035.JPG
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy Build/Products/Debug-iphoneos/monkey.app/IMG_0035.JPGd17541a20280b541^5b5f44a20280b541^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Products/Debug-iphoneos/monkey.app/IMG_0035.JPG000000000080d041^814"CpResource IMG_0035.JPG Build/Products/Debug-iphoneos/monkey.app/IMG_0035.JPG    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/IMG_0035.JPG" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"36"455BCC66-8126-4C99-B4D2-4AAA43378EE3-
+
+CCpResource buzzer.mp3 Build/Products/Debug-iphoneos/monkey.app/buzzer.mp3
+s360710818.268309
+e360710818.271898
+r1
+xCpResource
+xbuzzer.mp3
+xBuild/Products/Debug-iphoneos/monkey.app/buzzer.mp3
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy Build/Products/Debug-iphoneos/monkey.app/buzzer.mp32eca44a20280b541^1b9b45a20280b541^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Products/Debug-iphoneos/monkey.app/buzzer.mp3000000000080d041^808"CpResource buzzer.mp3 Build/Products/Debug-iphoneos/monkey.app/buzzer.mp3    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/buzzer.mp3" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"36"73B5525C-86D8-4C92-BEEF-BA6B30C05C92-
+
+CCpResource win.m4a Build/Products/Debug-iphoneos/monkey.app/win.m4a
+s360710818.273214
+e360710818.278882
+r1
+xCpResource
+xwin.m4a
+xBuild/Products/Debug-iphoneos/monkey.app/win.m4a
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy Build/Products/Debug-iphoneos/monkey.app/win.m4a4a0846a20280b541^626647a20280b541^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Products/Debug-iphoneos/monkey.app/win.m4a000000000080d041^799"CpResource win.m4a Build/Products/Debug-iphoneos/monkey.app/win.m4a    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/win.m4a" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"36"3D06F725-1573-44BA-A630-E08AA239D3C2-
+
+CGenerateDSYMFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app.dSYM" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey"
+s360710824.436265
+e360710824.659926
+r1
+xGenerateDSYMFile
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app.dSYM
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Generating /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app.dSYM60cb6fa80280b541^f2eea8a80280b541^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Products/Debug-iphoneos/monkey.app.dSYM000000000080d041^737"GenerateDSYMFile Build/Products/Debug-iphoneos/monkey.app.dSYM Build/Products/Debug-iphoneos/monkey.app/monkey    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey" -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app.dSYM"36"09AC2980-C5B9-4323-90F4-19AFDCE614B4-
+
+CLd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey" normal armv7
+s360710823.489854
+e360710824.429289
+r1
+xLd
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Link /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkeyaf947da70280b541^eae76da80280b541^---0#0#0#--1367"Ld Build/Products/Debug-iphoneos/monkey.app/monkey normal armv7    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk "-L/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos" "-F/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos" -filelist "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/Objects-normal/armv7/monkey.LinkFileList" -dead_strip -miphoneos-version-min=5.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework Security -framework QuartzCore -framework AVFoundation -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/monkey"36"D6BEB5E3-A9CE-4CE6-B61C-32ABB43902E7-
+
+CProcessInfoPlistFile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/Info.plist" monkey-Info.plist
+s360710817.109533
+e360710817.228989
+r1
+xProcessInfoPlistFile
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/Info.plist
+xmonkey-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Process monkey-Info.plist37df1ca10280b541^b9513ca10280b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/monkey-Info.plist0000000000000000^944"ProcessInfoPlistFile Build/Products/Debug-iphoneos/monkey.app/Info.plist monkey-Info.plist    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility monkey-Info.plist -genpkginfo "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/ResourceRules.plist" -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/Info.plist"36"49CD6212-CE26-4071-83D5-D9A760712ED0-
+
+CProcessPCH "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.pth" monkey_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360710819.098202
+e360710821.966533
+r1
+xProcessPCH
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.pth
+xmonkey_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile monkey_Prefix.pch4c5219a30280b541^b96df7a50280b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/monkey_Prefix.pch0000000000000000^3695"ProcessPCH Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.pth monkey_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-generated-files.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-own-target-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-all-target-headers.hmap" -iquote "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey-project-headers.hmap" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/include" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources/armv7" "-I/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/DerivedSources" "-F/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos" --serialize-diagnostics "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.dia" -c "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/monkey_Prefix.pch" -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/PrecompiledHeaders/monkey_Prefix-duehcxajsxgacpclraeuvqpexmys/monkey_Prefix.pch.d"36"AA3F73C9-71E6-4E75-9E4A-F85F929D42CE-
+
+CProcessPCH /Users/yeraycallero/Library/Developer/Xcode/DerivedData/monkey-coidwirtzbfpndbhqkmurvspcdos/Index/PrecompiledHeaders/monkey_Prefix-dwczihmaqixgdeeqkbzhoefuhmqx_ast/monkey_Prefix.pch.pth monkey_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision" "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision"
+s360710824.781892
+e360710824.785517
+r1
+xProcessProductPackaging
+x/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection207"ProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision" Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision3545c8a80280b541^1e17c9a80280b541^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision0000000000000000^806"ProcessProductPackaging "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision" Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/yeraycallero/Library/MobileDevice/Provisioning Profiles/21C3D5A4-D178-4F57-87EF-AA9B86EFE030.mobileprovision" -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app/embedded.mobileprovision"36"E484BFF4-7C2F-408B-91A2-2C08D45D391D-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent"
+s360710824.880550
+e360710824.913536
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection218"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcentfc8ae1a80280b541^d07ce6a80280b541^---0#0#0#-19%DVTDocumentLocation2@185"file://localhost/Users/yeraycallero/Trabajo/iOS%20Sommeliers%20architectural%20study/rmd6502-monkey-dedc14c%202/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent000000000080d041^854"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Intermediates/monkey.build/Debug-iphoneos/monkey.build/monkey.xcent"36"3D16D42F-98E9-4049-B45C-6FCA3232CC41-
+
+CTouch "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"
+s360710824.793168
+e360710824.850246
+r1
+xTouch
+x/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Touch /Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app151fcba80280b541^5bb3d9a80280b541^---0#0#0#--485"Touch Build/Products/Debug-iphoneos/monkey.app    cd "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/yeraycallero/Trabajo/iOS Sommeliers architectural study/rmd6502-monkey-dedc14c 2/Build/Products/Debug-iphoneos/monkey.app"36"4ECEB1D6-2BD8-407D-9619-C1D1BD964AED-
+
